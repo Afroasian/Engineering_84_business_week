@@ -1,5 +1,5 @@
-# interview preperation notes including questions and answers
-## questions
+# Interview preperation notes including questions and answers
+## Questions
 
 - Question 1: What is Agile and the benefit of implementing it?
 - Answer: Agile is a group of software devlopment methodologies based on iterative development, where the requirements and solutions evolve through collaboration of self organizing teams.
