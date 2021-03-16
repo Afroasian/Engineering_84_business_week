@@ -24,5 +24,8 @@ Some benefits of implementing it would include the ability to find problems and 
 - Question 5: Where do you see yourself in 2-5 years time?
 - Answer: In 2-5 years time i see myself having climbed the ranks by using my knowledge, skills and experience to be a Senior DevOps Engineer and be leading my own team. 
           I will specialize in Automation Architecture.
+          
+- Question 6: What is normalization?
+- Answer: Normalization is the process of organizing data in a database. This includes creating tables and establishing relationships between those tables according to rules designed both to protect the data and to make the database more flexible by eliminating redundancy and inconsistent dependency.
 
 ### Answers
