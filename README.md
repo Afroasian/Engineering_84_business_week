@@ -2,7 +2,8 @@
 ## Questions
 
 - Question 1: What is Agile and the benefit of implementing it?
-- Answer: Agile is a group of software devlopment methodologies based on iterative development, where the requirements and solutions evolve through collaboration of self organizing teams.
+- Answer: Agile is an iterative approach to project management and software development that helps teams deliver value to their customers faster and with fewer headaches. Instead of betting everything on a "big bang" launch, an agile team delivers work in small, but consumable, increments.
+
           Some benefits of implementing it would include the ability to find problems and create solutions quickly and efficiently due to the fact that it is iterative. It is also 
           flexible, this allows project teams to respond to customer reaction and constantly improve the product. 
           
