@@ -25,7 +25,27 @@ Some benefits of implementing it would include the ability to find problems and 
 - Answer: In 2-5 years time i see myself having climbed the ranks by using my knowledge, skills and experience to be a Senior DevOps Engineer and be leading my own team. 
           I will specialize in Automation Architecture.
           
-- Question 6: What is normalization?
+- Question 6: What is DML?
+- Answer: DML stands for Data Manipulation Language, this is used for selecting, inserting, updating and deleting data in a database.
+
+- Question 7: What is DDL?
+- Answer: DDL stands for Data Definition Language, this is used for creating, altering, droping and truncating tables in a database.
+
+- Question 8: What is DCL?
+- Answer: DCL stands for Data Control Language, this is used for granting and revoking access to a database.
+
+- Question 9: What is TCL? 
+- Answer: TCL stands for Transaction Control Language, this is used to manage transactions in a database, the commands include commit, rollback and savepoint.
+
+- Question 10: What is normalization?
 - Answer: Normalization is the process of organizing data in a database. This includes creating tables and establishing relationships between those tables according to rules designed both to protect the data and to make the database more flexible by eliminating redundancy and inconsistent dependency.
+
+<pre>
+- Question 11: What is 1NF? 
+- Answer: 1NF is the first normal form and is used when there is duplicated data e.g Dept(Sales, finance    sales, finance, devops) so that each attribute contains only atomic (indivisible) values
+</pre>
+
+
+
 
 ### Answers
