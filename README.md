@@ -24,8 +24,8 @@ Some benefits of implementing it would include the ability to find problems and 
 - Question 5: Where do you see yourself in 2-5 years time?
 - Answer: In 2-5 years time i see myself having climbed the ranks by using my knowledge, skills and experience to be a Senior DevOps Engineer and be leading my own team. 
           I will specialize in Automation Architecture.
- ##SQL 
-  
+           
+## SQL  
 - Question 6: What is DML?
 - Answer: DML stands for Data Manipulation Language, this is used for selecting, inserting, updating and deleting data in a database.
 
