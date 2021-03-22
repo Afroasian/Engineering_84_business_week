@@ -45,7 +45,6 @@ Some benefits of implementing it would include the ability to find problems and 
 - Answer: 1NF is the first normal form and is used when there is duplicated data e.g Dept(Sales, finance    sales, finance, devops) so that each attribute contains only atomic (indivisible) values
 </pre>
 
-
 - Question 12: What is 2NF?
 - Answer: 2NF is the 2nd normal form, second normal form is used when the following two requirements are met: It is in first normal form. It does not have any non-prime attribute that is functionally dependent on any proper subset of any candidate key of the relation.
 
