@@ -49,4 +49,9 @@ Some benefits of implementing it would include the ability to find problems and 
 
 - Question 13: What is 3NF?
 - Answer: 3NF is the 3rd normal form, 3rd  normal form is used when the following two requirements are met: It is in second normal form. It does not have transitive dependency.
+
+
+## Git and Github
+![Git and Git-Hub](https://user-images.githubusercontent.com/26543682/111989059-2cf2ac80-8b09-11eb-860f-22cf34d971f5.png)
+
 ### Answers
