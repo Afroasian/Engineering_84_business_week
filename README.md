@@ -46,6 +46,9 @@ Some benefits of implementing it would include the ability to find problems and 
 </pre>
 
 
+- Question 12: What is 2NF?
+- Answer: 2NF is the 2nd normal form, second normal form is used when the following two requirements are met: It is in first normal form. It does not have any non-prime attribute that is functionally dependent on any proper subset of any candidate key of the relation.
 
-
+- Question 13: What is 3NF?
+- Answer: 3NF is the 3rd normal form, 3rd  normal form is used when the following two requirements are met: It is in second normal form. It does not have transitive dependency.
 ### Answers
