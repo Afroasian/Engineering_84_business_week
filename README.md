@@ -54,4 +54,22 @@ Some benefits of implementing it would include the ability to find problems and 
 ## Git and Github
 ![Git and Git-Hub](https://user-images.githubusercontent.com/26543682/111989059-2cf2ac80-8b09-11eb-860f-22cf34d971f5.png)
 
+
+## Object Orientated Programing
+
+- Question 14: What is OOP and why should we use it?
+- Answer: OOPS refer to Object-Oriented Programming system in which programs are treated as a collection of objects. Each object is nothing but an example of a class.
+
+- Question 15:what are the basic concepts of OOP?
+- Answer: The basic concepts of OOP are Inheritance, Encapsulation, Polymorphism and Abstraction. Would you like me to explain these concepts?
+
+- Question 16: What is Abstraction?
+- Answer: Abstraction is an OOPs approach to construct the structure of the real-world objects. During the construction, only the general states and behaviours are taken, and more specific states and actions are left aside for the implementers. An example of this is when i go to make coffee with a coffee machine. I need to know how to use the coffee machine to make coffee, i need to provide water and coffee beans, switch it on and select the kind of coffee i want to get. But what i dont't need to know is how the coffee machine is working internally to brew the coffee. So i aspects such as the iedal temperature of the water would be left aside for the implementers.
+
+- Question 17: What is Encapsulation?
+- Answer: Encapsulation is an OOPs theory to create and define the restrictions and permissions of an object and its member variable and methods. These are set as classes.
+- ![image](https://user-images.githubusercontent.com/26543682/112624552-ab12c400-8e25-11eb-8c34-555f16dbeed2.png)
+
+
+
 ### Answers
