@@ -70,6 +70,10 @@ Some benefits of implementing it would include the ability to find problems and 
 - Answer: Encapsulation is an OOPs theory to create and define the restrictions and permissions of an object and its member variable and methods. These are set as classes.
 - ![image](https://user-images.githubusercontent.com/26543682/112624552-ab12c400-8e25-11eb-8c34-555f16dbeed2.png)
 
+- Question 18:
+- Answer
 
+- Question 19: What is Polymorphism?
+- Answer:  Polymorphism means same function name (but different signatures) being used for different types. An example of this is in Cars, two different types of cars can inherit the attributes of the parent class in this case being general cars such as doors, windows, fuel. Two diffent types of cars that have inherited these attributes could both have different types of wheels, doors etc on them. 
 
 ### Answers
