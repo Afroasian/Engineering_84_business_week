@@ -76,4 +76,6 @@ Some benefits of implementing it would include the ability to find problems and 
 - Question 19: What is Polymorphism?
 - Answer:  Polymorphism means same function name (but different signatures) being used for different types. An example of this is in Cars, two different types of cars can inherit the attributes of the parent class in this case being general cars such as doors, windows, fuel. Two diffent types of cars that have inherited these attributes could both have different types of wheels, doors etc on them. 
 
+- Question 20: What is an API?
+- API stands for Application Programming Interface. An API is a software intermediary that allows two applications to talk to each other. In other words, an API is the messenger that delivers your request to the provider that you're requesting it from and then delivers the response back to you.
 ### Answers
