@@ -78,4 +78,19 @@ Some benefits of implementing it would include the ability to find problems and 
 
 - Question 20: What is an API?
 - API stands for Application Programming Interface. An API is a software intermediary that allows two applications to talk to each other. In other words, an API is the messenger that delivers your request to the provider that you're requesting it from and then delivers the response back to you.
+
+- Question 21: What is MVC?
+- MVC stands for Model, View, and Controller. MVC separates an application into three components - Model, View, and Controller.
+
+Model: Model represents the shape of the data. A class in C# is used to describe a model. Model objects store data retrieved from the database.
+
+Model represents the data.
+
+View: View in MVC is a user interface. View display model data to the user and also enables them to modify them. View in ASP.NET MVC is HTML, CSS, and some special syntax (Razor syntax) that makes it easy to communicate with the model and the controller.
+
+View is the User Interface.
+
+Controller: The controller handles the user request. Typically, the user uses the view and raises an HTTP request, which will be handled by the controller. The controller processes the request and returns the appropriate view as a response.
+
+Controller is the request handler.
 ### Answers
