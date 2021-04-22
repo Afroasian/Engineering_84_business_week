@@ -13,7 +13,7 @@ Some benefits of implementing it would include the ability to find problems and 
 
 - Question 3: What is DevOps and the benefit of using it?
 - Answer:  DevOps is the combination of Development and OperaThe practice of DevOps encourages smoother, continuous communication, collaboration, integration, visibility, and transparency
-        between application development teams (Dev) and their IT operations team (Ops) counterparts.
+        between application development teams (Dev) and their IT operations team (Ops) counterparts. It has 4 amazing values which are robustness, ease of use, cost and flexibility.
 
 - Question 4: What is SCRUM and benefit of implementing it?
 - Answer: SCRUM describes a set of meetings, tools and roles that work together to help teams structure and manage their work. The main questions asked in the meetings are
