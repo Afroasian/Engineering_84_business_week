@@ -93,4 +93,8 @@ View is the User Interface.
 Controller: The controller handles the user request. Typically, the user uses the view and raises an HTTP request, which will be handled by the controller. The controller processes the request and returns the appropriate view as a response.
 
 Controller is the request handler.
-### Answers
+
+Scaling up is better for applications in which you don't expect a big spike in usage
+
+Scaling out is better for applications with sudden usage spikes
+
